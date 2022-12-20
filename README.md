@@ -1,4 +1,4 @@
-# Página com alternância de tema claro/escuro
+# Página de Login
 
 ## Descrição do Projeto
 <p align="left">Uma página de login responsiva, realizada a partir das diretrizes do <a href="https://efficient-sloth-d85.notion.site/Desafio-Login-Form-CSS-a10caea5a183494e97eb9ce4f33536b3">desafio da Rocketseat!</a></p>
