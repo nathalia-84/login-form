@@ -4,10 +4,10 @@
 <p align="left">Uma página de login responsiva, realizada a partir das diretrizes do <a href="https://efficient-sloth-d85.notion.site/Desafio-Login-Form-CSS-a10caea5a183494e97eb9ce4f33536b3">desafio da Rocketseat!</a></p>
 
 <h1 align="center">
-  <img alt="Página de Newsletter" title="#PáginaWeb" src="./assets/screenshots/Captura3.PNG" />
+  <img alt="Página de Login" title="#PáginaWeb" src="./images/captura5.PNG" />
 </h1>
 <h1 align="center">
-  <img alt="Página de Newsletter" title="#PáginaWeb" src="./assets/screenshots/Captura4.PNG" />
+  <img alt="Página de Login" title="#PáginaWeb" src="./images/captura6.PNG" />
 </h1>
 
 ### 🛠 Tecnologias

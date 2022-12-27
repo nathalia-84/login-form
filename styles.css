@@ -14,6 +14,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    font-size: 14px;
     color: var(--text-base);
     background-color: var(--background);
 
@@ -101,30 +102,33 @@ input[type=checkbox]:checked + label:before{
 
 
 input[type=email] {
-    background: url(./images/mail.svg) no-repeat scroll 5px 10px;
+    background: url(./images/mail.svg) no-repeat scroll 5px 15px;
     padding-left:35px;
     color: var(--text-base);
     border: 1px solid var(--text-base);
     border-radius: 0.4em;
+    font-size: 14px;
 }
 
 input[type=email]:focus {
-    background: url(./images/mail-focus.svg) no-repeat scroll 5px 10px;
+    background: url(./images/mail-focus.svg) no-repeat scroll 5px 12px;
     padding-left:35px;
     border: 5px solid var(--primary-color);
     border-radius: 0.4em;
+    
 }
 
 input[type=password] {
-    background: url(./images/lock.svg) no-repeat scroll 5px 10px;
+    background: url(./images/lock.svg) no-repeat scroll 5px 15px;
     padding-left:35px;
     color: var(--text-base);
     border: 1px solid var(--text-base);
     border-radius: 0.4em;
+    font-size: 14px;
 }
 
 input[type=password]:focus {
-    background: url(./images/lock-focus.svg) no-repeat scroll 5px 10px;
+    background: url(./images/lock-focus.svg) no-repeat scroll 5px 12px;
     padding-left:35px;
     border: 5px solid var(--primary-color);
     border-radius: 0.4em;
@@ -154,12 +158,8 @@ a {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    font-size: 14px;
 }
 
-span {
-    font-size: 14px;
-}
 
 .register {
     display: table;
@@ -175,19 +175,17 @@ h1 {
     font-weight: normal;
     margin-left: 0.2em;
     color: var(--text-title);
-    font-size: 28px;
+    font-size: 24px;
 }
 
 label.email {
     display: block;
-    margin-bottom: -.8rem;
-    font-size: 16px;
+    margin-bottom: -.4rem;
 }
 
 label.psw {
     display: block;
-    margin-bottom: -.8rem;
-    font-size: 16px;
+    margin-bottom: -.4rem;
 }
 
 @media only screen and (max-width: 740px) {
